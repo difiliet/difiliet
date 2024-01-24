@@ -1,1 +1,1 @@
-I am a University of Cincinnati student studying computer science. One of the classes that I am currently taking is Software Engineering.
+I am a University of Cincinnati student studying computer science. One of the classes that I am currently taking is Software Engineering. I have an immense interest in the development of Artificial intelligence and Database design.
